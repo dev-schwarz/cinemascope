@@ -1,0 +1,28 @@
+name: tmdb_objects
+description: A TheMovieDB.org (TMDb) library for Dart.
+version: 0.0.1
+author: Carlos R. Schwarz <dev-schwarz@gmail.com>
+homepage:
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0 <2.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  meta: ^1.1.8
+  equatable: ^1.1.1
+  json_annotation: ^3.0.0
+  to_string: ^1.2.1
+  tmdb_core:
+    path: ../tmdb_core
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  build_runner:
+  json_serializable: ^3.3.0
+  to_string_generator: ^1.2.1

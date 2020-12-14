@@ -1,0 +1,16 @@
+export '_common/_common.dart';
+export '_common/interfaces/results_object.dart';
+export '_common/objects/_common_objects.dart';
+export 'account/_account.dart';
+export 'account4/_account4.dart';
+export 'auth4/_auth4.dart';
+export 'authentication/_authentication.dart';
+export 'companies/_company.dart';
+export 'configuration/_configuration.dart';
+export 'discover/_discover.dart';
+export 'list4/_list4.dart';
+export 'movie/_movie.dart';
+export 'people/_people.dart';
+export 'search/_search.dart';
+export 'trending/_trending.dart';
+export 'tv/_tv.dart';
